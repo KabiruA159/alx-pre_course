@@ -1,2 +1,8 @@
 #!/bin/bash
 echo "school"
+#!/bin/bash
+basic school
+echo school
+#!/bin/bash
+echo school
+basic school
